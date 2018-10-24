@@ -1,0 +1,32 @@
+{ 
+"_id" : ObjectId("55bf10419d03fb1a88f990ba"), 
+"userName" : "user6", 
+"password" : "123", 
+"grade" : 98, 
+"classId" : 1, 
+"createTime" : ISODate("2015-08-12T06:59:57.318Z") 
+}， 
+{ 
+"_id" : ObjectId("55d697fe3a6aae9affb43744"), 
+"userName" : "user", 
+"password" : "123", 
+"grade" : 30, 
+"classId" : 2, 
+"createTime" : ISODate("2015-08-13T06:59:57.318Z") 
+}， 
+{ 
+"_id" : ObjectId("55ee48851db2fd2a72b1031f"), 
+"userName" : "user6", 
+"password" : "123", 
+"grade" : 43, 
+"classId" : 2, 
+"createTime" : ISODate("2015-08-14T06:59:57.318Z") 
+}， 
+{ 
+"_id" : ObjectId("55ee517b1db2fd2a72b10320"), 
+"userName" : "user6", 
+"password" : "124", 
+"grade" : 24, 
+"classId" : 1, 
+"createTime" : ISODate("2015-08-19T06:59:57.318Z") 
+}
